@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 3235523848141839500}
   - component: {fileID: 8931214180117803018}
   - component: {fileID: 3582910503982976089}
+  - component: {fileID: 7957880109403840339}
   m_Layer: 0
   m_Name: tank_bullet3_0
   m_TagString: Untagged
@@ -102,3 +103,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   prop: {fileID: 7142937024424908163}
   start: {fileID: 0}
+--- !u!114 &7957880109403840339
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7142937024424908163}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bae52a7d8d2f7ca4894f3cd4e1edaf08, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
